@@ -1,0 +1,37 @@
+
+				/* Indicator System */
+
+files 
+------------
+1. MODE_int.h 
+2. MODE_prg.h  
+
+/******************************************************************************/
+/*                                                                            */
+/* !Layer           : Application Layer (APP)                                 */
+/*                                                                            */
+/* !Component       : MODE                                                    */
+/* !Description     : Initializes the MODE module                             */
+/*                                                                            */
+/* !Module          : MODE                                                    */
+/* !Description     : MODE Module interface                                   */
+/*                                                                            */
+/* !File            : MODE_int.h                                              */
+/******************************************************************************/
+
+
+
+
+
+/******************************************************************************/
+/*                                                                            */
+/* !Layer           : Application Layer (APP)                                 */
+/*                                                                            */
+/* !Component       : MODE                                                    */
+/* !Description     : Initializes the MODE module                             */
+/*                                                                            */
+/* !Module          : MODE                                                    */
+/* !Description     : MODE Module interface                                   */
+/*                                                                            */
+/* !File            : MODE_prg.h                                              */
+/******************************************************************************/
